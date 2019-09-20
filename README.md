@@ -4,7 +4,7 @@ I used google colab for practicing
 instead of it , I have  used cv2_imshow()`
 
 
-## part-1 - [notebook](https://github.com/ash11sh/opencv-notes/blob/master/learn_opencv_part1.ipynb)
+## part-1 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ash11sh/opencv-notes/blob/master/learn_opencv_part1.ipynb)
 * OpenCV picture reading and display
 * OpenCV image grayscale
 * OpenCV image creation and assignment
@@ -16,7 +16,7 @@ instead of it , I have  used cv2_imshow()`
 * OpenCV color space and color space conversion
 
 
-## part-2 - [notebook](https://github.com/ash11sh/opencv-notes/blob/master/learn_opencv_part2.ipynb)
+## part-2 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ash11sh/opencv-notes/blob/master/learn_opencv_part2.ipynb)
 * OpenCV image pixel value statistics
 * OpenCV image pixel normalization
 * Video reading and writing of OpenCV
@@ -26,7 +26,7 @@ instead of it , I have  used cv2_imshow()`
 * OpenCV image ROI and ROI operations
 * OpenCV image histogram
 
-## part-3 - [notebook](https://github.com/ash11sh/opencv-notes/blob/master/learn_opencv_part3.ipynb)
+## part-3 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ash11sh/opencv-notes/blob/master/learn_opencv_part3.ipynb)
 * Image histogram equalization of OpenCV
 * OpenCV image histogram comparison
 * OpenCV image histogram back projection
