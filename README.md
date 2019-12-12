@@ -34,3 +34,6 @@ instead of it , I have  used cv2_imshow()`
 * OpenCV image mean and Gaussian blur
 * OpenCV median value blur
 * Image noise of OpenCV
+
+## Image processing tips🌟🌟
+- [tips related to usage of opencv and matplotlib](https://github.com/ash11sh/image-processing/blob/master/img-processing%20tips.ipynb)
